@@ -1,0 +1,7 @@
+**/.ipynb_checkpoints
+\*.
+!\.gitignore
+__pycache__
+*.xls
+*.xlsx
+*.txt
