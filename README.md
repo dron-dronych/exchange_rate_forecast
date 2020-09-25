@@ -4,6 +4,7 @@ Forecasting a country's exchange rate is a cimbersome exercise requiring a handy
 This repository is an experiment to model one exchange rate applying a number of classical econometric models as well as machine learning and deep learning techniques.
 
 Some of the techniques used for this project include the following:
+- simple time series models
 - classical econometric models such as SARIMA and the like
 - boosting methods
 - neural networks
