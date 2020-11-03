@@ -9,6 +9,8 @@ Some of the techniques used for this project include the following:
 - boosting methods
 - neural networks
 
+Additionally, I provide the exploratory data analysis with visualizations and a number of stats employed.
+
 ---
 
 The project aims to analyze and forecast Kyrgyz Republic's national currency (som or KGS) to US dollar (USD) exchange rate. 
