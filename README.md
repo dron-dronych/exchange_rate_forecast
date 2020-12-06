@@ -7,7 +7,7 @@ Some of the techniques used for this project include the following:
 - simple time series models
 - classical econometric models such as SARIMA and the like
 - boosting methods
-- neural networks
+- neural networks (Recurrent Neural Networks)
 
 Additionally, I provide the exploratory data analysis with visualizations and a number of stats employed.
 
