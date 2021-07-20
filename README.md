@@ -13,4 +13,9 @@ Additionally, I provide the exploratory data analysis with visualizations and a 
 
 ---
 
-The project aims to analyze and forecast Kyrgyz Republic's national currency (som or KGS) to US dollar (USD) exchange rate. 
+The project aims to analyze and forecast Kyrgyz Republic's national currency (som or KGS) to US dollar (USD) exchange rate.
+
+### Dependencies
+Experiments include the Facebook's one stop shop for time series analysis:
+
+`kats==0.1.0` 
