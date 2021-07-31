@@ -18,4 +18,8 @@ The project aims to analyze and forecast Kyrgyz Republic's national currency (so
 ### Dependencies
 Experiments include the Facebook's one stop shop for time series analysis:
 
-`kats==0.1.0` 
+`kats==0.1.0`
+
+Other dependecies include traditional DS packages:
+
+`pandas==1.1.5` 
